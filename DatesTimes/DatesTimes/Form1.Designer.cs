@@ -96,6 +96,7 @@ namespace DatesTimes
             // timTime
             // 
             this.timTime.Interval = 1000;
+            this.timTime.Tick += new System.EventHandler(this.timTime_Tick);
             // 
             // frmDate
             // 
