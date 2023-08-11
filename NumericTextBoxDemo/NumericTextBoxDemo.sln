@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumericTextBox", "NumericTextBox\NumericTextBox.csproj", "{7553EAEE-D141-4EE3-92E1-E8AEE15B44BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumericTextBoxTester", "NumericTextBoxTester\NumericTextBoxTester.csproj", "{51A878A9-99BD-40E9-B5D1-105051E52DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7553EAEE-D141-4EE3-92E1-E8AEE15B44BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7553EAEE-D141-4EE3-92E1-E8AEE15B44BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7553EAEE-D141-4EE3-92E1-E8AEE15B44BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7553EAEE-D141-4EE3-92E1-E8AEE15B44BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51A878A9-99BD-40E9-B5D1-105051E52DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51A878A9-99BD-40E9-B5D1-105051E52DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51A878A9-99BD-40E9-B5D1-105051E52DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51A878A9-99BD-40E9-B5D1-105051E52DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
